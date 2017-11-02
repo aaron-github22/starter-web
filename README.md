@@ -16,3 +16,7 @@ As stated above, bla bla bla
 This is a deployment bla bla bla
 
 ## How To Contribute
+
+### Copyright
+
+2017 Git.Training.
