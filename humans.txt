@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aaron Ward	aaronmward22@gmail.com 
 
 # THANKS
 
