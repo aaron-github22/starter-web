@@ -9,6 +9,8 @@ This is more filler
 
 ## Purpose
 
+As stated above, bla bla bla
+
 ## Deployment
 
 ## How To Contribute
